@@ -19,3 +19,7 @@ git init
 
 ## 🔍 Referências 
 - [Digital Innovation One]().
+
+## Resumo Aula 01
+
+## Resumo Aula 02
