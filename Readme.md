@@ -1,5 +1,5 @@
 
-# Dio | Aluna de git    
+# Dio | Aluna de Git  e GitHub 
 
 Repositorio para armazenar resumos sobre Git & GitHub do curso Versionamento de codigo com Git e GitHub da [Digital Innovation One](https://wwww.dio.me/).
 
@@ -10,8 +10,10 @@ Repositorio para armazenar resumos sobre Git & GitHub do curso Versionamento de 
 ## 🖋 Resumos das Aulas
 
 | Aulas | Resumos |
-|-------|---------|
-| Gravando as aletrações no Repositorio Local | [Resumo]()| 
+|------|---------|
+| Aula 01 | [Resumo]() | 
+| Aula 02 | [Resumo]() | 
+
 
 ---
 git init
@@ -19,7 +21,3 @@ git init
 
 ## 🔍 Referências 
 - [Digital Innovation One]().
-
-## Resumo Aula 01
-
-## Resumo Aula 02
