@@ -1,5 +1,5 @@
 
-# Dio | Aluna de Git  e GitHub 
+# Dio | Aluna de Git e GitHub 
 
 Repositorio para armazenar resumos sobre Git & GitHub do curso Versionamento de codigo com Git e GitHub da [Digital Innovation One](https://wwww.dio.me/).
 
