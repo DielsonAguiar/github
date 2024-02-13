@@ -1,6 +1,21 @@
-## Alterando o Arquivo.
-## Mostrando a differença com git diff.
 
-## Mostrando mais uma diferença.
-<h1> Alterando o Arquivo novamente </h1>
-<h2> alteração feita pelo dev 02 <h2>
+# Dio | Aluna de git    
+
+Repositorio para armazenar resumos sobre Git & GitHub do curso Versionamento de codigo com Git e GitHub da [Digital Innovation One](https://wwww.dio.me/).
+
+## 🧾 Documentação
+- [Documentação Git](https://git-scm.com/doc)
+- [Documentação GitHub](https://docs.github.com/)
+
+## 🖋 Resumos das Aulas
+
+| Aulas | Resumos |
+|-------|---------|
+| Gravando as aletrações no Repositorio Local | [Resumos]()| 
+
+---
+git init
+--- 
+
+## 🔍 Referências 
+- [Digital Innovation One]().
